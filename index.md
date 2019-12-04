@@ -14,6 +14,7 @@ Kaginawa is a remote maintenance and data collection software designed for IoT g
 | Linux   | amd64 | [kaginawa.linux-x64.bz2](/kaginawa.linux-x64.bz2)   | bzip2          |
 | Linux   | armv6 | [kaginawa.linux-arm6.bz2](/kaginawa.linux-arm6.bz2) | bzip2          |
 | Linux   | armv7 | [kaginawa.linux-arm7.bz2](/kaginawa.linux-arm7.bz2) | bzip2          |
+| Linux   | armv8 | [kaginawa.linux-arm8.bz2](/kaginawa.linux-arm8.bz2) | bzip2          |
 | MacOS   | amd64 | [kaginawa.macos.bz2](/kaginawa.macos.bz2)           | bzip2          |
 | Windows | amd64 | [kaginawa.exe.zip](/kaginawa.exe.zip)               | zip            |
 
@@ -32,4 +33,9 @@ Kaginawa Server (item 2) and SSH Server (item 3) are separated processes, but ea
 > I'm using Raspberry Pi. Which binaries work on my board?
 
 If you use Raspberry Pi 1, Zero (incl. W, WH) or Compute Module (CM1), use armv6 binary.
+Otherwise use armv7 binary.
+
+> I'm using NanoPi or similar boards. Which binaries work on my board?
+
+If you use arm64 operating systems, use armv8 (arm64) binary.
 Otherwise use armv7 binary.
