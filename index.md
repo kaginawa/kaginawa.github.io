@@ -20,7 +20,7 @@ Kaginawa is a remote maintenance and data collection software designed for IoT g
 
 ## FAQ
 
-> What do I need to start using Kaginawa?
+**What do I need to start using Kaginawa?**
 
 Kaginawa is a client-server model application with three building blocks.
 
@@ -30,12 +30,12 @@ Kaginawa is a client-server model application with three building blocks.
 
 Kaginawa Server (item 2) and SSH Server (item 3) are separated processes, but each can run on one server.
 
-> I'm using Raspberry Pi. Which binaries work on my board?
+**I'm using Raspberry Pi. Which binaries work on my board?**
 
 If you use Raspberry Pi 1, Zero (incl. W, WH) or Compute Module (CM1), use armv6 binary.
 Otherwise use armv7 binary.
 
-> I'm using NanoPi or similar boards. Which binaries work on my board?
+**I'm using NanoPi or similar boards. Which binaries work on my board?**
 
 If you use arm64 operating systems, use armv8 (arm64) binary.
 Otherwise use armv7 binary.
