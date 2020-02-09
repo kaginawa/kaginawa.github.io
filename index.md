@@ -6,7 +6,7 @@ Kaginawa is a remote maintenance and data collection software designed for IoT g
 
 - [kaginawa](https://github.com/kaginawa/kaginawa) - Main program, works on edge devices, servers, local machines, etc
 - [kaginawa-server](https://github.com/kaginawa/kaginawa-server) - Server program, works on Heroku and similar PaaS or IaaS
-- [kssh](https://github.com/kaginawa/kssh) - SSH-like command-line utility for connecting kaginawa host easily.
+- [kssh](https://github.com/kaginawa/kssh) - SSH-like command-line utility for connecting kaginawa host easily
 
 ## Download
 
