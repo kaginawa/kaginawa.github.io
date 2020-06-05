@@ -2,11 +2,23 @@
 
 Kaginawa is a remote maintenance and data collection software designed for IoT gateways.
 
+![](https://raw.githubusercontent.com/kaginawa/kaginawa/master/docs/overview.png)
+
 ## Repositories
+
+Core components:
 
 - [kaginawa](https://github.com/kaginawa/kaginawa) - Main program, works on edge devices, servers, local machines, etc
 - [kaginawa-server](https://github.com/kaginawa/kaginawa-server) - Server program, works on Heroku and similar PaaS or IaaS
+
+Utilities:
+
 - [kssh](https://github.com/kaginawa/kssh) - SSH-like command-line utility for connecting kaginawa host easily
+
+SDKs:
+
+- [kaginawa-sdk-go](https://github.com/kaginawa/kaginawa-sdk-go) - Kaginawa Server client library for the Go programming language
+- [kaginawa-sdk-java](https://github.com/kaginawa/kaginawa-sdk-java) - Kaginawa Server client library for the Java and other JVM languages
 
 ## Download
 
