@@ -22,14 +22,14 @@ SDKs:
 
 ## Download
 
-| OS      | Arch  | Download Link                                       | Archive Format |
-| ------- | ----- | --------------------------------------------------- | -------------- |
-| Linux   | amd64 | [kaginawa.linux-x64.bz2](/kaginawa.linux-x64.bz2)   | bzip2          |
-| Linux   | armv6 | [kaginawa.linux-arm6.bz2](/kaginawa.linux-arm6.bz2) | bzip2          |
-| Linux   | armv7 | [kaginawa.linux-arm7.bz2](/kaginawa.linux-arm7.bz2) | bzip2          |
-| Linux   | armv8 | [kaginawa.linux-arm8.bz2](/kaginawa.linux-arm8.bz2) | bzip2          |
-| MacOS   | amd64 | [kaginawa.macos.bz2](/kaginawa.macos.bz2)           | bzip2          |
-| Windows | amd64 | [kaginawa.exe.zip](/kaginawa.exe.zip)               | zip            |
+| OS      | Arch  | Download Link                                       | Archive Format | Checksum                                  |
+| ------- | ----- | --------------------------------------------------- | -------------- | ----------------------------------------- |
+| Linux   | amd64 | [kaginawa.linux-x64.bz2](/kaginawa.linux-x64.bz2)   | bzip2          | [sha256](/kaginawa.linux-x64.bz2.sha256)  |
+| Linux   | armv6 | [kaginawa.linux-arm6.bz2](/kaginawa.linux-arm6.bz2) | bzip2          | [sha256](/kaginawa.linux-arm6.bz2.sha256) |
+| Linux   | armv7 | [kaginawa.linux-arm7.bz2](/kaginawa.linux-arm7.bz2) | bzip2          | [sha256](/kaginawa.linux-arm7.bz2.sha256) |
+| Linux   | armv8 | [kaginawa.linux-arm8.bz2](/kaginawa.linux-arm8.bz2) | bzip2          | [sha256](/kaginawa.linux-arm8.bz2.sha256) |
+| MacOS   | amd64 | [kaginawa.macos-x64.bz2](/kaginawa.macos-x64.bz2)   | bzip2          | [sha256](/kaginawa.macos-x64.bz2.sha256)  |
+| Windows | amd64 | [kaginawa.exe.zip](/kaginawa.exe.zip)               | zip            | [sha256](/kaginawa.exe.zip.sha256)        |
 
 ## FAQ
 
